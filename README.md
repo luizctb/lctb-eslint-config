@@ -3,6 +3,8 @@
 
 This is a custom ESLint package I've developed to facilitate code standardization and quality in my projects, especially in Next.js and React projects. The package includes a set of rules and configurations that have been carefully selected and tailored to meet specific development needs.
 
+Link "homepage": [https://github.com/luizctb/lctb-eslint-config]
+
 ## Features
 
 - Specific configurations for Next.js, React, and TypeScript projects.
