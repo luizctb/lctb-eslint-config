@@ -5,6 +5,8 @@ This is a custom ESLint package I've developed to facilitate code standardizatio
 
 Link "homepage": [https://github.com/luizctb/lctb-eslint-config]
 
+Link "PG_NPM": [https://www.npmjs.com/search?q=eslint%20lctb]
+
 ## Features
 
 - Specific configurations for Next.js, React, and TypeScript projects.
@@ -19,7 +21,7 @@ Link "homepage": [https://github.com/luizctb/lctb-eslint-config]
 To use this ESLint package in your own project, you can install it via npm:
 
 
-npm install <xxxx> --save-dev
+npm install lctb-eslint-config
 
 ## Usage
 
